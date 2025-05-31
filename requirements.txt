@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy
+networkx
+scikit-learn
+websockets
+web3
